@@ -14,6 +14,7 @@ function Header() {
       <div className="relative flex items-center h-10 cursor-pointer my-auto">
         {/* <Image src="/Airbnb_icon-image.svg" layout="fill" /> */}
         <Image
+          alt="logo"
           src="https://links.papareact.com/qd3"
           layout="fill"
           objectFit="contain"
